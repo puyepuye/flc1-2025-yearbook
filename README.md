@@ -3,4 +3,4 @@
 A collective of talented members in our First-Year Learning Community (FLC) for Computer Science, academic year 2024–2025.
 
 ## Co-Developers
-- PF
+- PF ha ha ha
